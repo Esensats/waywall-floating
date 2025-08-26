@@ -1,4 +1,4 @@
-# Floating Module
+# Floating windows helper for Waywall
 
 The **floating** module helps managing the visibility of floating windows with [waywall](https://github.com/tesselslate/waywall)  
 (e.g. Ninjabrain Bot) during Minecraft speedrunning.
